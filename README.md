@@ -8,6 +8,8 @@
 <img src="./avi-ascii.svg" width="450" alt="Amal Azees — ASCII portrait" />
 
 <br>
+<br>
+<br>
 
 <p><b>Certified Cyber Security SOC Analyst · Diploma in Electronics Engineering · CSE Student · Hardware Pentester · Embedded Systems Enthusiast</b></p>
 <p><i>"Every line of code should make something better."</i></p>
