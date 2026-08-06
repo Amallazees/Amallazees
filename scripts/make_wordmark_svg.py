@@ -45,11 +45,16 @@ CELL_H = 15.5
 # and the pointed apex on the A gives the extrusion an edge to wrap around. a
 # very heavy face (Impact) collapses to blobs at this resolution -- the counters
 # get thinner than one grid cell.
-FONT_PATH = os.environ.get("WORDMARK_FONT", "/System/Library/Fonts/Futura.ttc")
-FONT_INDEX = int(os.environ.get("WORDMARK_FONT_INDEX", 2))   # face within a .ttc
-# three letters across the full width leaves ~30 grid columns each, which is what
-# lets the cells be big enough to read as characters rather than as dither.
-TEXT = os.environ.get("WORDMARK_TEXT", "AVI")
+_default_font = "/System/Library/Fonts/Futura.ttc"
+if not os.path.exists(_default_font):
+    for f in ["C:/Windows/Fonts/arialbd.ttf", "C:/Windows/Fonts/ariblk.ttf", "C:/Windows/Fonts/arial.ttf"]:
+        if os.path.exists(f):
+            _default_font = f
+            break
+
+FONT_PATH = os.environ.get("WORDMARK_FONT", _default_font)
+FONT_INDEX = int(os.environ.get("WORDMARK_FONT_INDEX", 0 if not os.path.exists("/System/Library/Fonts/Futura.ttc") else 2))
+TEXT = os.environ.get("WORDMARK_TEXT", "AMAL")
 
 MASK_H = 300           # glyph raster height in mask px (drives voxel density)
 TRACKING = 0.14        # extra letter-spacing, in em. counter gaps must survive the
@@ -256,7 +261,7 @@ def emit(frames, mode, out, dur, reveal):
     for i, dot in enumerate(["#ff5f56", "#ffbd2e", "#27c93f"]):
         p.append(f'<circle cx="{PAD + i*15}" cy="{TITLEBAR_H/2}" r="4.5" fill="{dot}"/>')
     p.append(f'<text x="{canvas_w/2:.0f}" y="{TITLEBAR_H/2 + 4:.0f}" fill="{TITLE_TEXT}" '
-             f'font-size="11.5" text-anchor="middle">avi@github: ~$ ./wordmark.sh --3d</text>')
+             f'font-size="11.5" text-anchor="middle">amalazees@github: ~$ ./wordmark.sh --3d</text>')
 
     def frame_g(rows, extra=""):
         out_rows = []

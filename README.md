@@ -1,42 +1,49 @@
 <div align="center">
 
 <!-- hero: monochrome ASCII portrait (types in) beside the extruded 3d ascii
-     wordmark (wipes in left-to-right, then rocks on its vertical axis).
-     widths are picked so both panels land at the same height.
-     portrait: python scripts/prep_photo.py <photo> && python scripts/make_ascii_svg.py
-     wordmark: python scripts/make_wordmark_svg.py --mode rock
-     how the wordmark is built: docs/3d-ascii-wordmark.md -->
+     wordmark (wipes in left-to-right, then rocks on its vertical axis). -->
 
-<h3><code>avi@github ~ $ whoami</code></h3>
+<h3><code>amalazees@github ~ $ whoami</code></h3>
 
 <table>
 <tr>
-<td valign="top"><img src="./avi-ascii.svg" width="370" alt="Avi Vashishta — ASCII portrait" /></td>
-<td valign="top"><img src="./wordmark.svg" width="490" alt="AVI — 3D ASCII wordmark" /></td>
+<td valign="top"><img src="./avi-ascii.svg" width="370" alt="Amal Azees — ASCII portrait" /></td>
+<td valign="top"><img src="./wordmark.svg" width="490" alt="AMAL — 3D ASCII wordmark" /></td>
 </tr>
 </table>
 
 <br>
-<br>
 
-<!-- animated contribution graph: real data, boxes reveal cell by cell
-     (regenerated daily by .github/workflows/update-profile-art.yml) -->
-
-<h3><code>avi@github ~ $ ./contributions.sh</code></h3>
-
-<img src="./contrib-heatmap.svg" width="860" alt="Avi's GitHub contribution graph — auto-refreshed daily" />
+<p><b>Cyber Security SOC Analyst · Hardware Pentester · Electronics & Embedded Systems Engineer</b></p>
+<p><i>Bridging the gap between physical hardware knowledge, embedded systems, and network security.</i></p>
 
 <br>
+
+<!-- animated contribution graph -->
+
+<h3><code>amalazees@github ~ $ ./contributions.sh</code></h3>
+
+<img src="./contrib-heatmap.svg" width="860" alt="Amal Azees GitHub contribution graph" />
+
+<br>
 <br>
 
-<h3><code>avi@github ~ $ ./links.sh</code></h3>
+<h3><code>amalazees@github ~ $ ./certifications_and_skills.sh</code></h3>
 
-<p><b>Fullstack Developer · AI Builder · Instructor</b></p>
+<p>
+  <img src="https://img.shields.io/badge/CICSA_v3-Cyber_SOC_Analyst-00F0FF?style=for-the-badge&logo=shield&logoColor=black" />
+  <img src="https://img.shields.io/badge/ISO_27001-Security_Associate-0052CC?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cyber_Security-SOC_Analysis-ff0055?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hardware-Pentesting_%26_ESP32-339933?style=for-the-badge&logo=espressif&logoColor=white" />
+  <img src="https://img.shields.io/badge/Electronics-Diploma_Engineer-E34F26?style=for-the-badge&logo=arduino&logoColor=white" />
+</p>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-avivashishta.com-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://www.avivashishta.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-avivashishta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/avivashishta)
-[![Instagram](https://img.shields.io/badge/Instagram-avi__vashishta29-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/avi_vashishta29)
-[![Live Terminal](https://img.shields.io/badge/⚡_Live_Terminal-avivashishta29.github.io-22d3ee?style=for-the-badge&logo=gnometerminal&logoColor=black)](https://avivashishta29.github.io)
+<br>
+<h3><code>amalazees@github ~ $ ./links.sh</code></h3>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-amall.site-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://amall.site)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-amalazees-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amalazees)
+[![Email](https://img.shields.io/badge/Email-amalazeesa@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amalazeesa@gmail.com)
 
 <br>
 
