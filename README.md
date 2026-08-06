@@ -15,7 +15,7 @@
 <br>
 
 <p><b>Cyber Security SOC Analyst · Hardware Pentester · Electronics & Embedded Systems Engineer</b></p>
-<p><i>Bridging the gap between physical hardware knowledge, embedded systems, and network security.</i></p>
+<p><i>"Every line of code should make something better."</i></p>
 
 <br>
 
