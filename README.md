@@ -14,7 +14,7 @@
 
 <br>
 
-<p><b>Cyber Security SOC Analyst · Hardware Pentester · Electronics & Embedded Systems Engineer</b></p>
+<p><b>Certified Cyber Security SOC Analyst · Diploma in Electronics Engineering · CSE Student · Hardware Pentester · Embedded Systems Enthusiast</b></p>
 <p><i>"Every line of code should make something better."</i></p>
 
 <br>

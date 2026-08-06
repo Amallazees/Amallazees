@@ -33,7 +33,7 @@ from PIL import Image, ImageDraw, ImageFont
 HERE = os.path.dirname(os.path.abspath(__file__))
 
 # ---- geometry / grid ------------------------------------------------------
-COLS = int(os.environ.get("WORDMARK_COLS", 50))
+COLS = int(os.environ.get("WORDMARK_COLS", 58))
 ROWS = 0               # derived from the art -- see fit()
 # blank rows above and below the art. 5 pads the panel out to 486x387, which
 # renders at 490 wide beside the 370-wide portrait and lands within 5px of its
@@ -41,10 +41,7 @@ ROWS = 0               # derived from the art -- see fit()
 ROW_MARGIN = int(os.environ.get("WORDMARK_ROW_MARGIN", 5))
 CELL_W = 9.0
 CELL_H = 15.5
-# Futura Bold: even stroke weight keeps the shading consistent across a letter,
-# and the pointed apex on the A gives the extrusion an edge to wrap around. a
-# very heavy face (Impact) collapses to blobs at this resolution -- the counters
-# get thinner than one grid cell.
+# Futura Bold / Arial Bold: even stroke weight keeps the shading consistent across a letter
 _default_font = "/System/Library/Fonts/Futura.ttc"
 if not os.path.exists(_default_font):
     for f in ["C:/Windows/Fonts/arialbd.ttf", "C:/Windows/Fonts/ariblk.ttf", "C:/Windows/Fonts/arial.ttf"]:
@@ -57,11 +54,11 @@ FONT_INDEX = int(os.environ.get("WORDMARK_FONT_INDEX", 0 if not os.path.exists("
 TEXT = os.environ.get("WORDMARK_TEXT", "AMAL")
 
 MASK_H = 300           # glyph raster height in mask px (drives voxel density)
-TRACKING = 0.14        # extra letter-spacing, in em. counter gaps must survive the
+TRACKING = 0.08        # extra letter-spacing, in em. counter gaps must survive the
                        # extrusion offset or the word rasterizes to one solid slab.
 LINE_GAP = 1.20        # baseline-to-baseline, in cap heights (multi-line TEXT only)
-DEPTH_FRAC = 0.34      # extrusion depth as a fraction of glyph height
-TILT_DEG = float(os.environ.get("WORDMARK_TILT", 4.0))
+DEPTH_FRAC = 0.25      # extrusion depth as a fraction of glyph height
+TILT_DEG = float(os.environ.get("WORDMARK_TILT", 3.0))
                        # fixed X tilt so the top face stays visible. tilt slants the
                        # whole baseline in screen space, so the bottom row frays into
                        # a sliver at the ends of the swing -- keep it shallow. the
@@ -77,12 +74,10 @@ FIT = 0.92             # fraction of the grid the widest pose may use
 RAMP = " .`:-=+*csS#%@"
 # keyed close to the view axis, lifted a little: letter faces stay solid and dense,
 # the extruded top/side walls fall away to a dimmer char. that gap is the 3D read.
-# a side-heavy light instead makes the walls out-shine the faces and the word
-# dissolves into edge highlights.
 LIGHT = np.array([-0.15, -0.45, -1.00])
 LIGHT = LIGHT / np.linalg.norm(LIGHT)
 AMBIENT = 0.22
-FOG = 0.34             # how much the far end of the word dims, 0..1
+FOG = 0.10             # how much the far end of the word dims, 0..1
 FOG_SPAN = 0.55        # world-units of depth the fog ramp covers
 
 # ---- palette (matches the rest of the profile) ----------------------------
@@ -338,7 +333,7 @@ def main():
     a = ap.parse_args()
 
     P, N = build_shell()
-    rest = math.radians(-13)                  # the 3/4 pose the wordmark rests in
+    rest = math.radians(-6)                  # slight 3/4 pose optimal for 4 letters
     if a.mode == "spin":
         nf = a.frames or 36
         yaws = [rest + 2 * math.pi * i / nf for i in range(nf)]
@@ -349,7 +344,7 @@ def main():
         dur = a.dur or 3.6
     else:                                     # rock: ping-pong, cosine-eased
         nf = a.frames or 20
-        amp = math.radians(11)
+        amp = math.radians(7)
         yaws = [rest + amp * math.sin(2 * math.pi * i / nf) for i in range(nf)]
         dur = a.dur or 5.0
 
