@@ -16,15 +16,6 @@
 
 <br>
 
-<!-- animated contribution graph -->
-
-<h3><code>amalazees@github ~ $ ./contributions.sh</code></h3>
-
-<img src="./contrib-heatmap.svg" width="860" alt="Amal Azees GitHub contribution graph" />
-
-<br>
-<br>
-
 <h3><code>amalazees@github ~ $ ./certifications_and_skills.sh</code></h3>
 
 <p>
