@@ -22,7 +22,7 @@
 
 <br>
 
-<h3><code>amalazees@github ~ $ ./certifications_and_skills.sh</code></h3>
+<h2>Certifications & Skills</h2>
 
 <p>
   <img src="https://img.shields.io/badge/CICSA_v3-Cyber_SOC_Analyst-00F0FF?style=for-the-badge&logo=shield&logoColor=black" />
