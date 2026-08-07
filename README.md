@@ -51,15 +51,15 @@
 
 <p align="center">
   <a href="https://amall.site" target="_blank">
-    <img src="./docs/assets/portfolio.png" alt="Portfolio" width="45" height="45" />
+    <img src="./docs/assets/portfolio.png" alt="Portfolio" width="30" height="30" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/amalazees" target="_blank">
-    <img src="./docs/assets/linkedin.png" alt="LinkedIn" width="45" height="45" />
+    <img src="./docs/assets/linkedin.png" alt="LinkedIn" width="30" height="30" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:amalazeesa@gmail.com">
-    <img src="./docs/assets/gmail.png" alt="Email" width="45" height="45" />
+    <img src="./docs/assets/gmail.png" alt="Email" width="30" height="30" />
   </a>
 </p>
 
