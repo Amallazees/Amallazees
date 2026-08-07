@@ -58,7 +58,7 @@
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="./docs/assets/tools/antigravity.png" alt="AI Curve" width="32" height="32" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/openai.svg" alt="ChatGPT" width="32" height="32" />
+  <img src="./docs/assets/tools/chatgpt.png" alt="ChatGPT" width="32" height="32" />
 </p>
 
 <br>
