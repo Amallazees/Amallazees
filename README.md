@@ -35,9 +35,19 @@
 <br>
 <h2 align="center">Connect & Links</h2>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-amall.site-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://amall.site)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-amalazees-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amalazees)
-[![Email](https://img.shields.io/badge/Email-amalazeesa@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amalazeesa@gmail.com)
+<p align="center">
+  <a href="https://amall.site" target="_blank">
+    <img src="https://img.shields.io/badge/-0d1117?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/amalazees" target="_blank">
+    <img src="https://img.shields.io/badge/-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:amalazeesa@gmail.com">
+    <img src="https://img.shields.io/badge/-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 <br>
 
