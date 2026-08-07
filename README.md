@@ -14,7 +14,7 @@
       <img src="./avi-ascii.svg" width="320" alt="Amal Azees — ASCII portrait" />
     </td>
     <td valign="middle">
-      <p><b>I'm a Computer Science (BTech) student and a Diploma graduate in Electronics Engineering. I'm CICSA-certified in Cyber SOC Analysis, with 5 cybersecurity certifications earned in the past 12 months. I'm open to IT and Cybersecurity roles, including internships and entry-level positions.</b></p>
+      <p><b>I'm a Computer Science (BTech) student and a Diploma graduate in Electronics Engineering. I'm CICSA-certified in Cyber SOC Analysis, with 5 cybersecurity certifications earned in the past 12 months. Driven by a passion for securing digital infrastructure, I combine my academic engineering foundation with self-directed, hands-on experience in penetration testing and hardware security development. I am adept at analyzing threats, configuring security tools, and collaborating on technical solutions. I am currently open to IT and Cybersecurity roles, including internships and entry-level positions where I can contribute to a proactive security posture.</b></p>
       <br>
       <p><i>"Every line of code should make something better."</i></p>
     </td>
