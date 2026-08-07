@@ -37,15 +37,15 @@
 
 <p align="center">
   <a href="https://amall.site" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/globe.svg" alt="Portfolio" width="42" height="42" />
+    <img src="./docs/assets/portfolio.png" alt="Portfolio" width="45" height="45" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/amalazees" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="42" height="42" />
+    <img src="./docs/assets/linkedin.png" alt="LinkedIn" width="45" height="45" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:amalazeesa@gmail.com">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Email" width="42" height="42" />
+    <img src="./docs/assets/gmail.png" alt="Email" width="45" height="45" />
   </a>
 </p>
 
