@@ -37,6 +37,16 @@
 </p>
 
 <br>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/CICSA_v3-Cyber_SOC_Analyst-00F0FF?style=for-the-badge&logo=shield&logoColor=black" />
+  <img src="https://img.shields.io/badge/ISO_27001-Security_Associate-0052CC?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cyber_Security-SOC_Analysis-ff0055?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hardware-Pentesting_%26_ESP32-339933?style=for-the-badge&logo=espressif&logoColor=white" />
+  <img src="https://img.shields.io/badge/Electronics-Diploma_Engineer-E34F26?style=for-the-badge&logo=arduino&logoColor=white" />
+</p>
+
+<br>
 <h2 align="center">Connect & Links</h2>
 
 <p align="center">
