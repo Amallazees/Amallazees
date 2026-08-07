@@ -24,7 +24,17 @@
 
 <h2 align="center">Certifications & Skills</h2>
 
-<p>
+<p align="center">
+  <img src="./docs/assets/certifications/crtmo.png" alt="CRTMO - Certified Red Team Management Operations" height="115" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./docs/assets/certifications/ctiga.png" alt="CTIGA - Certified Threat Intelligence & Governance Analyst" height="115" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./docs/assets/certifications/icsscada.png" alt="ICS / SCADA Cybersecurity Introduction" height="115" />
+</p>
+
+<br>
+
+<p align="center">
   <img src="https://img.shields.io/badge/CICSA_v3-Cyber_SOC_Analyst-00F0FF?style=for-the-badge&logo=shield&logoColor=black" />
   <img src="https://img.shields.io/badge/ISO_27001-Security_Associate-0052CC?style=for-the-badge&logo=google-cloud&logoColor=white" />
   <img src="https://img.shields.io/badge/Cyber_Security-SOC_Analysis-ff0055?style=for-the-badge&logo=kalilinux&logoColor=white" />
