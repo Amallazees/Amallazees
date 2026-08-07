@@ -22,7 +22,7 @@
 
 <br>
 
-<h2>Certifications & Skills</h2>
+<h2 align="center">Certifications & Skills</h2>
 
 <p>
   <img src="https://img.shields.io/badge/CICSA_v3-Cyber_SOC_Analyst-00F0FF?style=for-the-badge&logo=shield&logoColor=black" />
@@ -33,7 +33,7 @@
 </p>
 
 <br>
-<h3><code>amalazees@github ~ $ ./links.sh</code></h3>
+<h2 align="center">Connect & Links</h2>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-amall.site-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://amall.site)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-amalazees-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amalazees)
