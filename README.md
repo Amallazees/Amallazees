@@ -79,7 +79,9 @@
 </p>
 
 <br>
-<p align="center" style="opacity: 0.45;">⚠️ Copyright © 2026 Amal Azees. All Rights Reserved.</p>
+<br>
+<br>
+<p align="center" style="opacity: 0.45; margin-top: 50px;">⚠️ Copyright © 2026 Amal Azees. All Rights Reserved.</p>
 <br>
 
 </div>
