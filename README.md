@@ -39,11 +39,11 @@
 <br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/CICSA_v3-Cyber_SOC_Analyst-0d1117?style=for-the-badge&logo=shield&logoColor=white" />
-  <img src="https://img.shields.io/badge/ISO_27001-Security_Associate-0d1117?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cyber_Security-SOC_Analysis-0d1117?style=for-the-badge&logo=kalilinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hardware-Pentesting_%26_ESP32-0d1117?style=for-the-badge&logo=espressif&logoColor=white" />
-  <img src="https://img.shields.io/badge/Electronics-Diploma_Engineer-0d1117?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/CICSA_v3-Cyber_SOC_Analyst-21262d?style=for-the-badge&logo=shield&logoColor=white" />
+  <img src="https://img.shields.io/badge/ISO_27001-Security_Associate-21262d?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cyber_Security-SOC_Analysis-21262d?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hardware-Pentesting_%26_ESP32-21262d?style=for-the-badge&logo=espressif&logoColor=white" />
+  <img src="https://img.shields.io/badge/Electronics-Diploma_Engineer-21262d?style=for-the-badge&logo=arduino&logoColor=white" />
 </p>
 
 <br>
