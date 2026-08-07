@@ -79,13 +79,7 @@
 </p>
 
 <br>
-<h2 align="center">Disclaimer & License Policy</h2>
-
-<blockquote align="center">
-  <p><b>⚠️ Copyright © 2026 Amal Azees. All Rights Reserved.</b></p>
-  <p>All content, designs, custom artwork, ASCII portraits, certification credentials, and code scripts in this repository are strictly proprietary. <b>Unauthorized copying, reproduction, redistribution, or reuse without explicit written permission is strictly prohibited.</b></p>
-</blockquote>
-
+<p align="center"><b>Copyright © 2026 Amal Azees. All Rights Reserved.</b></p>
 <br>
 
 </div>
