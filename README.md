@@ -3,7 +3,7 @@
 <!-- hero: monochrome ASCII portrait (types in) beside the extruded 3d ascii
      wordmark (wipes in left-to-right, then rocks on its vertical axis). -->
 
-<img src="./wordmark.svg" width="500" alt="AMAL AZEES — Green Matrix ASCII Animation" />
+<h1><b>AMAL AZEES</b></h1>
 
 <div align="left">
 <table border="0">
