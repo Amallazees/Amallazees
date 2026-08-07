@@ -3,16 +3,24 @@
 <!-- hero: monochrome ASCII portrait (types in) beside the extruded 3d ascii
      wordmark (wipes in left-to-right, then rocks on its vertical axis). -->
 
-<h3><code>amalazees@github ~ $ whoami</code></h3>
+<p align="left"><code>amalazees@github ~ $ whoami</code></p>
 
-<img src="./avi-ascii.svg" width="450" alt="Amal Azees — ASCII portrait" />
+<h1><b>AMAL AZEES</b></h1>
 
-<br>
-<br>
-<br>
-
-<p><b>Certified Cyber Security SOC Analyst · Diploma in Electronics Engineering · CSE Student · Hardware Pentester · Embedded Systems Enthusiast</b></p>
-<p><i>"Every line of code should make something better."</i></p>
+<div align="left">
+<table border="0">
+  <tr>
+    <td width="330" valign="top">
+      <img src="./avi-ascii.svg" width="320" alt="Amal Azees — ASCII portrait" />
+    </td>
+    <td valign="middle">
+      <p><b>I'm a Computer Science (BTech) student and a Diploma graduate in Electronics Engineering. I'm CICSA-certified in Cyber SOC Analysis, with 5 cybersecurity certifications earned in the past 12 months. I'm open to IT and Cybersecurity roles, including internships and entry-level positions.</b></p>
+      <br>
+      <p><i>"Every line of code should make something better."</i></p>
+    </td>
+  </tr>
+</table>
+</div>
 
 <br>
 
