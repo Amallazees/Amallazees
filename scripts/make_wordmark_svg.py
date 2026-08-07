@@ -51,7 +51,7 @@ if not os.path.exists(_default_font):
 
 FONT_PATH = os.environ.get("WORDMARK_FONT", _default_font)
 FONT_INDEX = int(os.environ.get("WORDMARK_FONT_INDEX", 0 if not os.path.exists("/System/Library/Fonts/Futura.ttc") else 2))
-TEXT = os.environ.get("WORDMARK_TEXT", "AMAL")
+TEXT = os.environ.get("WORDMARK_TEXT", "AMAL AZEES")
 
 MASK_H = 300           # glyph raster height in mask px (drives voxel density)
 TRACKING = 0.08        # extra letter-spacing, in em. counter gaps must survive the
@@ -85,7 +85,7 @@ BG = "#0d1117"
 BG2 = "#111722"
 FRAME = "#30363d"
 TITLE_TEXT = "#7d8590"
-INK = "#c9d1d9"
+INK = "#00FF66"
 
 PAD = 18
 TITLEBAR_H = 28
