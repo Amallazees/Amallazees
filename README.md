@@ -37,15 +37,15 @@
 
 <p align="center">
   <a href="https://amall.site" target="_blank">
-    <img src="https://img.shields.io/badge/-0d1117?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/globe.svg" alt="Portfolio" width="42" height="42" />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/amalazees" target="_blank">
-    <img src="https://img.shields.io/badge/-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="42" height="42" />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:amalazeesa@gmail.com">
-    <img src="https://img.shields.io/badge/-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Email" width="42" height="42" />
   </a>
 </p>
 
