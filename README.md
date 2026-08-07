@@ -47,6 +47,21 @@
 </p>
 
 <br>
+<h2 align="center">Tools</h2>
+
+<p align="center">
+  <img src="./docs/assets/tools/vscode.png" alt="VS Code" width="32" height="32" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./docs/assets/tools/burpsuite.png" alt="Burp Suite" width="32" height="32" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./docs/assets/tools/malwarebytes.png" alt="Malwarebytes" width="32" height="32" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./docs/assets/tools/antigravity.png" alt="AI Curve" width="32" height="32" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/openai.svg" alt="ChatGPT" width="32" height="32" />
+</p>
+
+<br>
 <h2 align="center">Connect & Links</h2>
 
 <p align="center">
